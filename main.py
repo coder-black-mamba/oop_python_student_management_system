@@ -1,1 +1,1 @@
-print("Assalamualaikum Everyone ")
+print("Assalamualaikum Everyone")
